@@ -26,11 +26,18 @@
       "image": "https://dhruveee5604.github.io/Lab-3-javascript/images/peach-mango.svg"
     },
     {
-      "name": "Chocolate Delight",
-      "calories": 310,
+      "name": "Peach Xtra",
+      "calories": 360,
       "type": "Chocolate",
       "ingredients": ["Milk", "Cocoa Powder", "Cream", "Sugar", "Chocolate Chips"],
-      "image": "https://dhruveee5604.github.io/Lab-3-javascript/images/chocolate-mint.svg"
+      "image": "https://dhruveee5604.github.io/Lab-3-javascript/images/ice-cream-xtra2.svg"
+    },
+    {
+      "name": "Chocolate Xtra",
+      "calories": 350,
+      "type": "Chocolate",
+      "ingredients": ["Milk", "Cocoa Powder", "Cream", "Sugar", "Chocolate Chips"],
+      "image": "https://dhruveee5604.github.io/Lab-3-javascript/images/ice-cream-xtra1.svg"
     }
   ]
 }
