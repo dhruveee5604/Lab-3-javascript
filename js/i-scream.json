@@ -1,0 +1,36 @@
+{
+  "companyName": "I-Scream Co.",
+  "headOffice": "Toronto, ON",
+  "established": 1999,
+  "active": true,
+  "topFlavors": [
+    {
+      "name": "Chocolate Mint",
+      "calories": 250,
+      "type": "Classic",
+      "ingredients": ["Milk", "Cream", "Vanilla Extract", "Sugar"],
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "name": "Strawberry Swirl",
+      "calories": 270,
+      "type": "Fruity",
+      "ingredients": ["Milk", "Strawberries", "Cream", "Sugar"],
+      "image": "strawberry-swirl.svg"
+    },
+    {
+      "name": "Peach Mango",
+      "calories": 300,
+      "type": "Tropical",
+      "ingredients": ["Milk", "Peach", "Mango", "Cream", "Sugar"],
+      "image": "peach-mango.svg"
+    },
+    {
+      "name": "Chocolate Delight",
+      "calories": 310,
+      "type": "Chocolate",
+      "ingredients": ["Milk", "Cocoa Powder", "Cream", "Sugar", "Chocolate Chips"],
+      "image": "chocolate-delight.svg"
+    }
+  ]
+}
